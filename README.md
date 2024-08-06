@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shruthi-Lakshminarayana
-- 👀 I’m interested in coding
+- 👀 I’m interested in developing websites
 - 🌱 I’m currently learning Angular framework
 - 💞️ I’m looking to collaborate on Angular projects
 - 📫 How to reach me shruthilakshminarayana5@gmail.com
